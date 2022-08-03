@@ -36,7 +36,7 @@ export const Body = styled.div`
 
 export const DirectoryItemContainer = styled.div`
     min-width: 30%;
-    height: 240px;
+    height: 390px;
     flex: 1 1 auto;
     display: flex;
     align-items: center;
@@ -65,20 +65,3 @@ export const DirectoryItemContainer = styled.div`
             margin-left: 7.5px;
           }
       `;
-
-//  .directory-item-container {
-
-//   }
-
-//   &.large {
-//     height: 380px;
-//   }
-
-//   .background-image {
-//
-//   }
-
-//   .body {
-
-//   }
-// }
